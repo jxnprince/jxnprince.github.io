@@ -1667,3 +1667,14 @@ input, select, textarea {
 			margin-left: 25%;
 			border-radius: 10px;
 		}
+		
+		#contact{
+			overflow: hidden
+		}
+		
+		#message{
+			resize: none;
+			height: 75%;
+			width: 100%;
+			overflow: scroll;
+		}
