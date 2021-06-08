@@ -1660,7 +1660,7 @@ input, select, textarea {
 		
 		#about{
 			max-height: 80vh;
-			overflow: hidden;
+			overflow: scroll;
 		}
 		
 		#avatar{
